@@ -1,0 +1,36 @@
+{
+    "employees": [
+        {
+            "firstName": "John",
+            "lastName": "Smith",
+            "position": "Research associate",
+            "MRG": "Deep camera",
+            "dateThatJoinedCYENS": "21/10/2019",
+            "skills": ["Computer vision", "camera"]
+        },
+        {
+            "firstName": "Sahar",
+            "lastName": "Mclellan",
+            "position": "Software Developer",
+            "MRG": "Software Development Department",
+            "dateThatJoinedCYENS": "01/03/2020",
+            "skills": ["Software development", "python", "node js", "javascript", "security", "API", "agile development"]
+        },
+        {
+            "firstName": "Mariah",
+            "lastName": "Green",
+            "position": "Software Developer",
+            "MRG": "Software Development Department",
+            "dateThatJoinedCYENS": "05/03/2020",
+            "skills": ["Software development", "html", "css", "javascript", "react", "redux", "API", "agile development"]
+        },
+        {
+            "firstName": "Davina",
+            "lastName": "Allman",
+            "position": "AI MRG Leader",
+            "MRG": "Artificial Inteligence and robotics",
+            "dateThatJoinedCYENS": "18/06/2019",
+            "skills": ["Software development", "AI", "machine learning", "robotics", "python"]
+        }
+    ]
+}
